@@ -1,0 +1,21 @@
+<svg class="Ui-root css-2qgrgz" fill="none" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <filter id=":r1m:-filter" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="18.6479" width="20" x="2" y="3.3501">
+    <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+    <feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+    <feOffset dy="1"></feOffset>
+    <feComposite in2="hardAlpha" operator="out"></feComposite>
+    <feColorMatrix type="matrix" values="0 0 0 0 0.345098 0 0 0 0 0 0 0 0 0 0.913725 0 0 0 1 0"></feColorMatrix>
+    <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_13_11573"></feBlend>
+    <feBlend in="SourceGraphic" in2="effect1_dropShadow_13_11573" mode="normal" result="shape"></feBlend>
+  </filter>
+  <linearGradient id=":r1m:-gradient" gradientUnits="userSpaceOnUse" x1="3" x2="18.6355" y1="5.66783" y2="21.9406">
+    <stop class="Ui-topHalf" offset="0" stop-color="#fff"></stop>
+    <stop class="Ui-topHalf" offset=".473958" stop-color="#fff"></stop>
+    <stop class="Ui-topHalf" offset=".474058" stop-color="#fff" stop-opacity="0"></stop>
+  </linearGradient>
+  <g class="Ui-outlineFilter" filter="url(#:r1m:-filter)">
+    <path class="Ui-bottomHalf" d="m12 19.9981c-.0529 0-.1058-.0113-.1549-.0334-4.9601-2.2515-8.8451-7.0027-8.8451-10.81685 0-2.64563 2.15513-4.79775 4.80413-4.79775 1.64362 0 3.02057.80175 4.19587 2.44725 1.1756-1.6455 2.5526-2.44725 4.1959-2.44725 2.649 0 4.8041 2.15212 4.8041 4.79775 0 3.81415-3.885 8.56535-8.8451 10.81645-.0492.0225-.102.0338-.1549.0338z" fill="#fff"></path>
+    <path d="m12 19.9981c-.0529 0-.1058-.0113-.1549-.0334-4.9601-2.2515-8.8451-7.0027-8.8451-10.81685 0-2.64563 2.15513-4.79775 4.80413-4.79775 1.64362 0 3.02057.80175 4.19587 2.44725 1.1756-1.6455 2.5526-2.44725 4.1959-2.44725 2.649 0 4.8041 2.15212 4.8041 4.79775 0 3.81415-3.885 8.56535-8.8451 10.81645-.0492.0225-.102.0338-.1549.0338z" fill="url(#:r1m:-gradient)"></path>
+    <path class="Ui-outline" d="m11.6385 20.42.0013.0006c.1137.0512.2365.0775.3602.0775.1232 0 .2466-.0261.3615-.0784 2.5519-1.1582 4.8244-2.957 6.463-4.961 1.6315-1.9951 2.6755-4.2455 2.6755-6.31085 0-2.9224-2.3796-5.29775-5.3041-5.29775-1.6461 0-3.0311.72934-4.1958 2.1283-1.1645-1.39899-2.54962-2.1283-4.19597-2.1283-2.92451 0-5.30413 2.37535-5.30413 5.29775 0 2.06535 1.04399 4.31575 2.67545 6.31095 1.63868 2.004 3.91116 3.8029 6.46305 4.9612z" stroke="#5800e9" stroke-linejoin="round"></path>
+  </g>
+</svg>
